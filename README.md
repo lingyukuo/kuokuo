@@ -19,7 +19,7 @@ Github   | 存放原始碼
 Bootstrap | 顏色圖片模板
 
 ## 程式碼片段
-ˋˋˋpython
+```python
 @app.route("/")
 def home():
     temp = glob.glob("articles/*")
