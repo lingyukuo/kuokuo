@@ -17,6 +17,7 @@ HTML/CSS  | 網頁表示和排版
 Heroku   | 託管網頁
 Github   | 存放原始碼
 Bootstrap | 顏色圖片模板
+Markdown | 區段元素(網頁圖片)
 
 ## 程式碼片段
 ```python
